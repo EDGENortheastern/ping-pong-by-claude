@@ -54,6 +54,3 @@ Pressing the **✦ Claude Style** button sends a request to the Claude API (`cla
 
 Example themes Claude may generate: Neon Noir, Deep Ocean, Lava Cave, Arctic Console.
 
----
-
-## File structure
